@@ -1,0 +1,8 @@
+Flask==2.0.2
+Flask-GraphQL==2.0.1
+Flask-SQLAlchemy==3.0.0
+Flask-Migrate==3.1.0
+Flask-Cors==3.0.10
+graphene==3.0.0
+graphene-sqlalchemy==2.3.1
+keycloak==0.26.0
